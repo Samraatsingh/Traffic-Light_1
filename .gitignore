@@ -1,0 +1,31 @@
+# STM32CubeIDE auto-generated and build files
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.log
+*.dep
+*.ioc.zip
+
+# Build directories
+/Debug/
+/Release/
+/build/
+/STM32CubeIDE/.settings/
+/STM32CubeIDE/.mxproject
+/STM32CubeIDE/*.log
+/STM32CubeIDE/*.bin
+/STM32CubeIDE/*.elf
+
+# IDE files
+# /.project
+# /.cproject
+# /.settings/
+/.metadata/
+
+# OS or misc
+.DS_Store
+Thumbs.db
